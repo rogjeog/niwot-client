@@ -1,0 +1,4 @@
+{
+  "API_BASE": "https://api-game.niwot.btsinfo.nc",
+  "WS_BASE": "wss://api-game.niwot.btsinfo.nc"
+}
